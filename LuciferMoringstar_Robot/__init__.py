@@ -28,14 +28,14 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  KMTZ Auto Filter V2335
     
-➥ Creator : [Naughty PROFESSOR](
-https://youtube.com/c/NaughtyPROFESSOR)
+➥ Creator : [ പോടാ പ*** മോനെ](
+https://t.me/kmtz_channel_v3)
 
-➥ Language : Python3
+➥ Language : നിന്റെ തന്ത 
 
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Library : Pyrogram Asyncio 2 3 3 5
 
-➥ Tutorial : [Click Me](https://youtu.be/5hnYOKBzyi8)
+➥ Tutorial : [Click Me](https://t.me/kmtz_v3)
 """
