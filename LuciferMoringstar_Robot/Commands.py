@@ -115,7 +115,7 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("Search Here", switch_inline_query_current_chat='')
+                InlineKeyboardButton("🧞‍♂️ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ 🧞‍♂️", switch_inline_query_current_chat='')
 
                 ],[
 
@@ -133,7 +133,7 @@ async def start(bot, message):
 
             ],[
 
-            InlineKeyboardButton('☑️ 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌  ☑️', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
+            InlineKeyboardButton('☑️ 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌  ☑️', url='http://instagram.com/kl_02_pranav_?utm_source=qr')
 
                 ]]
 
