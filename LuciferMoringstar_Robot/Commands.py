@@ -115,7 +115,7 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton('🧞‍♂️ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ 🧞‍♂️', url=f'http://t.me/{.U_NAME}?startgroup=true')
+                InlineKeyboardButton('🧞‍♂️ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ 🧞‍♂️',)
 
             ],[
 
@@ -134,7 +134,6 @@ async def start(bot, message):
             ],[
 
             InlineKeyboardButton('☑️ 𝐈𝐍𝐒𝐓𝐀𝐆𝐑𝐀𝐌  ☑️', url='https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA')
-                ]]
             )
         )
         StopPropagation
