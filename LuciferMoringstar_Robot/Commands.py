@@ -115,7 +115,7 @@ async def start(bot, message):
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [[
-                InlineKeyboardButton("🧞‍♂️ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ 🧞‍♂️", url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+                InlineKeyboardButton("🧞‍♂️ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ 🧞‍♂️", switch_inline_query_current_chat='')
 
                 ],[
 
