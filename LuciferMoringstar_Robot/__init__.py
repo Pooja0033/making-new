@@ -37,15 +37,15 @@ ABOUT = """
 
 ║╭━━━━━━━━━━━━━━━➣ 
 
-║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/Dqautofl_Bot"> 𝑨𝑵𝑵𝑨 𝑩𝑬𝑵 </a>
+║┣⪼ 𝙈𝙔 𝙉𝘼𝙈𝙀 - <a href="https://t.me/KL_2335"> 🔞𝗔𝗗𝗠𝗜𝗡🔞 </a>
 
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/pro_editor_tg"> Lalluᵗᵍ </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎1 - <a href="https://t.me/kmtz_v4"> 𝗞𝗠𝗧𝗭 𝗚𝗥𝗢𝗨𝗣 ☠️ </a>
 
-║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/PANDITHAN_SIR"> ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋM-STER </a>
+║┣⪼ Ⓓ︎Ⓔ︎Ⓥ︎2 - <a href="https://t.me/RED_world_hub_v2_bot"> ⸙ꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋꠋ𝐑𝐄𝐃 𝐖𝐨𝐫𝐥𝐝 𝐇𝐮𝐛 𝐯2 𝐛𝐨𝐭 🎬 </a>
 
-║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
+║┣⪼ 𝓛𝓲𝓫𝓻𝓪𝓻𝓻𝔂 - UK Librarry
 
-║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
+║┣⪼ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮 - Chinese 
 
 ║┣⪼ 𝓓𝓪𝓽𝓪 𝓑𝓪𝓼𝓮 - 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
 
