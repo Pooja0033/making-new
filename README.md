@@ -6,17 +6,12 @@ Very Sempil Bot Auto Filter bot
 
 𝐂𝐋𝐈𝐂𝐊 𝐁𝐄𝐋𝐎𝐖 𝐈𝐌𝐀𝐆𝐄 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘👇👇👇
 
-[![Deploy](https://i.ibb.co/SrYpdxT/file-169.jpg)](https://heroku.com/deploy?template=https://github.com/Pooja0033/pic)
+[![Deploy](https://i.ibb.co/SrYpdxT/file-169.jpg)](https://heroku.com/deploy?template=https://github.com/Pooja0033/making-new)
 </p>
 <h1 align="center">
   <b> 𝙿𝚁𝙰𝙽𝙰𝚅 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3 </b>
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Pooja0033/AutoFilterBotV3?style=social)
-<img src="https://img.shields.io/github/forks/Pooja0033/AutoFilterBotV3?style=social"></img>
-## How To Deploy Video
-<a href="https://youtu.be/5hnYOKBzyi8"><img src="https://img.shields.io/badge/How%20To%20Deploy-blue.svg?logo=Youtube"></a> <img src="https://img.shields.io/youtube/views/5hnYOKBzyi8?style=social">
-## Subscribe YouTube Channel
-<a href="https://youtube.com/NaughtyPROFESSOR"> <img src="https://img.shields.io/youtube/channel/subscribers/UCU3Hg3qJJrIaC_0Gw7MLT1A?V?label=Subscribers&style=for-the-badge&color=red&labelColor=ce463"/> </a>
+
 
 #### Added Features
 * Imdb posters for autofilter.
@@ -31,7 +26,7 @@ Very Sempil Bot Auto Filter bot
 
 #### Deploy To Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pooja0033/AutoFilterBotV3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Pooja0033/making-new)
 
 #### Hard Way
 ```bash
